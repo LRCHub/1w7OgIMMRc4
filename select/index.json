@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "Sweet Child O' Mine",
+  "base_artist": "Guns N' Roses",
+  "createdAt": "2026-02-23T03:33:36.910278Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sweet Child O' Mine",
+      "artist": "Melonia",
+      "has_synced": true,
+      "path": "select/01_Sweet_Child_O'_Mine_Melonia.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sweet Child O' Mine",
+      "artist": "Guns N' Roses",
+      "has_synced": true,
+      "path": "select/02_Sweet_Child_O'_Mine_Guns_N'_Roses.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sweet Child O' Mine",
+      "artist": "Stefanie Sun",
+      "has_synced": true,
+      "path": "select/03_Sweet_Child_O'_Mine_Stefanie_Sun.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sweet Child O' Mine",
+      "artist": "Danni Carlos",
+      "has_synced": true,
+      "path": "select/04_Sweet_Child_O'_Mine_Danni_Carlos.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sweet Child O' Mine",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/05_Sweet_Child_O'_Mine_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sweet Child O' Mine",
+      "artist": "Kfir Ochaion",
+      "has_synced": false,
+      "path": "select/06_Sweet_Child_O'_Mine_Kfir_Ochaion.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sweet Child O' Mine",
+      "artist": "Ochaion, Kfir",
+      "has_synced": false,
+      "path": "select/07_Sweet_Child_O'_Mine_Ochaion,_Kfir.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sweet Child O' Mine",
+      "artist": "Nico Borie",
+      "has_synced": true,
+      "path": "select/08_Sweet_Child_O'_Mine_Nico_Borie.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "sweet Child O' Mine'",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/09_sweet_Child_O'_Mine'_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sweet Child o' Mine (acoustic)",
+      "artist": "Slash",
+      "has_synced": true,
+      "path": "select/10_Sweet_Child_o'_Mine_(acoustic)_Slash.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sweet Child O' Mine",
+      "artist": "Guns'N'Roses",
+      "has_synced": true,
+      "path": "select/11_Sweet_Child_O'_Mine_Guns'N'Roses.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sweet Child O Mine",
+      "artist": "Guns & Roses",
+      "has_synced": true,
+      "path": "select/12_Sweet_Child_O_Mine_Guns_&_Roses.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sweet Child O' Mine",
+      "artist": "ガンズ・アンド・ローゼズ",
+      "has_synced": false,
+      "path": "select/pl_01_Sweet_Child_O'_Mine_ガンズ・アンド・ローゼズ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Sweet Child O' Mine",
+      "artist": "ガンズ・アンド・ローゼズ",
+      "has_synced": false,
+      "path": "select/pl_02_Sweet_Child_O'_Mine_ガンズ・アンド・ローゼズ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Sweet Child O' Mine",
+      "artist": "ガンズ・アンド・ローゼズ",
+      "has_synced": false,
+      "path": "select/pl_03_Sweet_Child_O'_Mine_ガンズ・アンド・ローゼズ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Sweet Child O' Mine",
+      "artist": "ガンズ・アンド・ローゼズ",
+      "has_synced": false,
+      "path": "select/pl_04_Sweet_Child_O'_Mine_ガンズ・アンド・ローゼズ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Sweet Child O' Mine",
+      "artist": "ガンズ・アンド・ローゼズ",
+      "has_synced": false,
+      "path": "select/pl_05_Sweet_Child_O'_Mine_ガンズ・アンド・ローゼズ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "Sweet Child O' Mine",
+      "artist": "ガンズ・アンド・ローゼズ",
+      "has_synced": false,
+      "path": "select/pl_06_Sweet_Child_O'_Mine_ガンズ・アンド・ローゼズ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "Sweet Child O' Mine",
+      "artist": "ガンズ・アンド・ローゼズ",
+      "has_synced": false,
+      "path": "select/pl_07_Sweet_Child_O'_Mine_ガンズ・アンド・ローゼズ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "Sweet Child o' Mine",
+      "artist": "ガンズ・アンド・ローゼズ",
+      "has_synced": false,
+      "path": "select/pl_08_Sweet_Child_o'_Mine_ガンズ・アンド・ローゼズ.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "Sweet Child O Mine",
+      "artist": "ガンズ・アンド・ローゼズ",
+      "has_synced": false,
+      "path": "select/pl_09_Sweet_Child_O_Mine_ガンズ・アンド・ローゼズ.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "Sweet Child O'Mine",
+      "artist": "ガンズ・アンド・ローゼズ",
+      "has_synced": false,
+      "path": "select/pl_10_Sweet_Child_O'Mine_ガンズ・アンド・ローゼズ.txt"
+    }
+  ]
+}
